@@ -1,0 +1,1093 @@
+There are 74,476 unique nefarious userids in this collection as of releases through June 2020. 
+
+There are 0 outside connections for bangladesh
+There are 0 outside connections for catalonia
+There are 65 outside connections for china
+There are 0 outside connections for ecuador
+There are 0 outside connections for egypt
+There are 0 outside connections for honduras
+There are 0 outside connections for indonesia
+There are 140 outside connections for iran
+There are 0 outside connections for nigeria_ghana
+There are 40 outside connections for russia
+There are 0 outside connections for sa_eg_ae
+There are 0 outside connections for saudi_arabia
+There are 0 outside connections for serbia
+There are 0 outside connections for spain
+There are 0 outside connections for turkey
+There are 0 outside connections for uae_egypt
+There are 0 outside connections for uae
+There are 10 outside connections for venezuela
+
+
+
+
+
+-------------Statistics for bangladesh as of 30June2020--------------
+Unique UserIDs: 11 
+ Original Num of Tweets: 26212
+ Dedup Num of Tweeets: 26211 -- 100.0%
+
+
+Self-Retweets Top15 by Count of Retweet
+0OvJRirnL32w7blCoMRthk30yPlXapfIPFac4Eyje0k=    3
+Name: userid, dtype: int64
+
+
+Total Num RT: 1020 -- 3.89% of total Tweets 
+ Num of RT of others: 1017 -- 99.71% of Retweets
+ Num selfRT: 3 -- 0.29% of Retweets
+ -- Num of unique users who selfRT: 1
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 69 -- 6.78% of RT of others
+
+ -- Total Num of unique pairs: 3 -- 4.35% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 948 -- 93.22% of RT of others
+
+ -- Total Num of unique pairs: 169 -- 17.83% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 310 -- 1.18% of total Tweets 
+ Num of Rply of others: 310 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 310 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 299 -- 96.45% of Rply of others outside country collection
+
+
+
+-------------Statistics for catalonia as of 30June2020--------------
+Unique UserIDs: 76 
+ Original Num of Tweets: 9489
+ Dedup Num of Tweeets: 9486 -- 99.97%
+
+
+Self-Retweets Top15 by Count of Retweet
+WmuGrcKvlItmfLcYo8JqFvqcwfJ7hn0jvHrAFZHpdBo=    6
+PU2wqnANI5yVpnwhdNC7NXIWtmAK2wMz9UYU1S9hE=      1
+BL3MWry3mDc5fsUPQOzEoln7zrpLVpHfc6akUcg7eY=     1
+dn7ih4cOZgZnV4GQIby7Jx777VbMO78iMv8ZDghRP7g=    1
+MXRyIffolYVIxjHoo4L8kZrhgwV0Q5gTL3t4EYo1wU=     1
+zcjq53ah8JMLh5XvL3sNbtReAefJI5gCCPCxSLmIgpU=    1
+Name: userid, dtype: int64
+
+
+Total Num RT: 252 -- 2.66% of total Tweets 
+ Num of RT of others: 241 -- 95.63% of Retweets
+ Num selfRT: 11 -- 4.37% of Retweets
+ -- Num of unique users who selfRT: 6
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 241 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 81 -- 33.61% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 2201 -- 23.2% of total Tweets 
+ Num of Rply of others: 2201 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 2201 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 2172 -- 98.68% of Rply of others outside country collection
+
+
+-------------Statistics for china as of 30June2020--------------
+Unique UserIDs: 28940 
+ Original Num of Tweets: 14196339
+ Dedup Num of Tweeets: 14185562 -- 99.92%
+
+
+Self-Retweets Top15 by Count of Retweet
+888306699198636032                              4093
+267090518                                       3987
+747839651872923649                               339
+907691540                                        291
+924969829                                        261
+CibRKkjL6yUoFcFPKQxgxQ5bWEQbh6zr4OKRAqUITZY=     225
+343927641                                        217
+1944006122                                       206
+747381560446488577                               183
+B5NhPxZiJNXiug+288SwkE55sONJ74dhJfFx0sD1Kw=      179
+1000654602377740288                              172
+XTBy4SnpYKNscgKgJrqnDczymDWSx4pQvzMPOWYUU=       165
+dwcvWrjLLY1VsXfcWW1Bd0ALTW0MojKn8mvofGVaero=     146
+6hYet1anBrRENbLY9a7vllzfklRmRHUmhymTE+vvfmo=     142
+3288637228                                       139
+Name: userid, dtype: int64
+
+
+Total Num RT: 895940 -- 6.32% of total Tweets 
+ Num of RT of others: 875158 -- 97.68% of Retweets
+ Num selfRT: 20782 -- 2.32% of Retweets
+ -- Num of unique users who selfRT: 2651
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 210474 -- 24.05% of RT of others
+
+ -- Total Num of unique pairs: 107247 -- 50.95% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 664684 -- 75.95% of RT of others
+
+ -- Total Num of unique pairs: 90068 -- 13.55% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 3465277 -- 24.43% of total Tweets 
+ Num of Rply of others: 3465277 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 3465277 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 3396992 -- 98.03% of Rply of others outside country collection
+
+
+-------------Statistics for ecuador as of 30June2020--------------
+Unique UserIDs: 787 
+ Original Num of Tweets: 700240
+ Dedup Num of Tweeets: 699911 -- 99.95%
+
+
+Self-Retweets Top15 by Count of Retweet
+qtP0D1z6mFBtjTshAx+E5Ns2qs6wIIuN5pnV2C0c=       605
+I5xos1HSx4XzcpZJsr4DtWkHyovjNwgEH3EMZpTjXg=     371
+FIjrhGJNC3aVVIxSrfuGdH03k4MwGgF7fGBWk4gmk=      353
+iSZjvrh0O8JLqwgsz8daiPC1H7AEfILNDk6ifURiF8U=    192
+vpu1wuoWx5rGpB4kVGrwQQFZD44HIRGuQeL8m4BXYvI=    162
+HbBpTJgEtVzvdtw79c7phbP63TOApyzud5iXgpTlY4Y=    128
+oVYT8oX4tvbsBpb1+hoAjUVEw94eQe2PPxs28jPVzc0=    123
+T+29kB4weuZQzIJVW5PIwYo0NhMCV6B18uBxfJ974Y=     111
+eSYSNKd4ygJ2J0hd9EXhKbeKjjWzcGYruaKa+DdZ8=       92
+mWZkHHuAS4v8pUTY5BHhC8oLIDh80D9UZdTCk0lf818=     92
+zKYJZD52nUKJ4RfXnORpifpkfPr2jserkuiY6gEUTg=      88
+a80BlEiOOW5T2tqAhFJNucEK7x6n4BAvQ7cucFkCns=      87
+M0hol9vf3gkndQcSmanF5iOY4AfTAGlgvrWyb16A2KY=     83
+d2qbM13imIYY7AJi5M3nAb1StbtiMSaD5npCG7pkxD4=     77
+naitEAwea3LbQ20Y34iC40A36gUaPWIY7ok7aHtA=        75
+Name: userid, dtype: int64
+
+
+Total Num RT: 26914 -- 3.85% of total Tweets 
+ Num of RT of others: 21705 -- 80.65% of Retweets
+ Num selfRT: 5209 -- 19.35% of Retweets
+ -- Num of unique users who selfRT: 137
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 21705 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 5255 -- 24.21% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 46159 -- 6.59% of total Tweets 
+ Num of Rply of others: 46159 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 46159 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 44288 -- 95.95% of Rply of others outside country collection
+
+
+-------------Statistics for egypt as of 30June2020--------------
+Unique UserIDs: 2172 
+ Original Num of Tweets: 7935329
+ Dedup Num of Tweeets: 7894012 -- 99.48%
+
+
+Self-Retweets Top15 by Count of Retweet
+1664006540                                      6063
+1259387862                                      4923
+4066831175                                      3871
+4823780625                                      3111
+722885676207906816                              1710
+704188886860374016                              1192
+772149409488535552                               797
+Si3YfNdSkIvGffBURTu4FN3cYooS748dxwWCMqb5RM=      745
+SYTYwjQR8q+KWGhTTlrSEAJI04pw5P6PXzhJrPZo=        745
+800881678323486720                               741
+AkbQ7kkKXCJNm5GivwHVDin67bybfrtJjPNNOMbAis=      737
+4842747940                                       693
+Nb9UoCBpfIpsb4279DbhswpnhVtBtkQad765pd+86M=      637
+qj3Yiwxrq6r6z6SOHwaBO8O4chN58m7DyS6VvUJCn3U=     594
+25IalNmT6EfWkBtqkJHZZzhHMXdM2RnmSq5wcsRtM=       556
+Name: userid, dtype: int64
+
+
+Total Num RT: 612161 -- 7.75% of total Tweets 
+ Num of RT of others: 572857 -- 93.58% of Retweets
+ Num selfRT: 39304 -- 6.42% of Retweets
+ -- Num of unique users who selfRT: 776
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 572857 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 19693 -- 3.44% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 398916 -- 5.05% of total Tweets 
+ Num of Rply of others: 398916 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 398916 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 380112 -- 95.29% of Rply of others outside country collection
+
+
+-------------Statistics for honduras as of 30June2020--------------
+Unique UserIDs: 3007 
+ Original Num of Tweets: 1165019
+ Dedup Num of Tweeets: 1164301 -- 99.94%
+
+
+Self-Retweets Top15 by Count of Retweet
+909028875115667456                              318
+886223596162617346                              285
+129851702                                       159
+2841434451                                      152
+si0x6bRmUN1RyMQQpkqS0VvpLX78Gc+ON2U73suuAM=     142
+gzZ+OEsDOWWib6X4XVUsVwSbrYo3zMeAJjHilkyPUTE=    108
+yKsENQuD4sEswJd8WCAl8mU7nnxdL7H6xBU9uZ99L8=      94
+2LFoqnYwSFR151JTnqP+7rdC1yas8mGx2tRqrcdeA=       88
+4IrduIoq888BpCUqj7dlAQS5SSxnJd7rcLDoH8kboQ=      57
+umeXwmAJpX8OOKZnHXPzHTgLaOCIZY0mTQ6FIxck=        55
+pAGOWPFMvL9lGaRgqs7TZcsOONAht7icSSzIWKofuZs=     37
+zv6IYzVEUBLsOscI+4uwatBOfiIL97RIHTxqVgpLD3c=     36
+dtcvL99Zaimii305A2DtDW3ijyjPZgcUoasHkCajw54=     36
+QYlQ68MlmcMRqX4Wdd3BOMcvqfOya4LsXA9bz64EO7M=     35
+vbG7tVwyv+vDsjKcbGcVDDkBkbxeGgyhZK3+HGJe6es=     34
+Name: userid, dtype: int64
+
+
+Total Num RT: 23191 -- 1.99% of total Tweets 
+ Num of RT of others: 21162 -- 91.25% of Retweets
+ Num selfRT: 2029 -- 8.75% of Retweets
+ -- Num of unique users who selfRT: 141
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 21162 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 1305 -- 6.17% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 186153 -- 15.99% of total Tweets 
+ Num of Rply of others: 186153 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 186153 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 180685 -- 97.06% of Rply of others outside country collection
+
+
+-------------Statistics for indonesia as of 30June2020--------------
+Unique UserIDs: 716 
+ Original Num of Tweets: 2700296
+ Dedup Num of Tweeets: 2699305 -- 99.96%
+
+
+Self-Retweets Top15 by Count of Retweet
+xIPO1dIGR7i398adSHnHssC5zbuQQ5aPKA5zAsmB2cM=    94
+715834555                                       45
+742548371290755072                              44
+1399269998                                      44
+zP59gfvoMwr0jgI13n+9InlmRJ9oxgoKwUNNpV+VoIc=    40
+898501696824811520                              32
+1141521468                                      32
+734703676980232192                              30
+qpXNO2Nr27jxmyX6qTNYXUCZK6AuKLhqmvw18FmXHBQ=    28
+1320518058                                      22
+tcssCdd6K7pfThu5FajA4BqYmjlfPCB6sw3UMpvZI=      19
+4776096882                                      18
+k22g1Qb+JVHwXGPH0ZU75nKJkF24oPwyJrdxyEgzYE=     18
+xu1OXWER32Rw+ENQcjRixm8RBKOoWhmCdrM++qxPosg=    16
+ISS8UEAWF1S3oitNpBVklJLa3duKSGJAHZcvJSYsJ4=     15
+Name: userid, dtype: int64
+
+
+Total Num RT: 9743 -- 0.36% of total Tweets 
+ Num of RT of others: 8975 -- 92.12% of Retweets
+ Num selfRT: 768 -- 7.88% of Retweets
+ -- Num of unique users who selfRT: 94
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 8975 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 1362 -- 15.18% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 550178 -- 20.38% of total Tweets 
+ Num of Rply of others: 550178 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 550178 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 539721 -- 98.1% of Rply of others outside country collection
+
+
+-------------Statistics for iran as of 30June2020--------------
+Unique UserIDs: 5864 
+ Original Num of Tweets: 16025634
+ Dedup Num of Tweeets: 7993373 -- 49.88%
+
+
+Self-Retweets Top15 by Count of Retweet
+853936563469914113                              9341
+715843641869254656                              8689
+704751473842851840                              8353
+984823255906357248                              6438
+754954251982471168                              5219
+782149640917581824                              5040
+3232244922                                      4813
+270363178                                       4369
+2968290043                                      3498
+896065771541082112                              2347
+irxOwlVdaRbVCUzldxmBITmp93aHrqfdGePQLY7wZOI=    2241
+888859594583400448                              2066
+705835441061273605                              1635
+853144291560042496                              1630
+887266954544766976                              1592
+Name: userid, dtype: int64
+
+
+Total Num RT: 2964270 -- 37.08% of total Tweets 
+ Num of RT of others: 2840674 -- 95.83% of Retweets
+ Num selfRT: 123596 -- 4.17% of Retweets
+ -- Num of unique users who selfRT: 781
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 833205 -- 29.33% of RT of others
+
+ -- Total Num of unique pairs: 29358 -- 3.52% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 2007469 -- 70.67% of RT of others
+
+ -- Total Num of unique pairs: 618790 -- 30.82% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+770517215858876417                                                  763
+bac526884ab0d54de467942a69e719cef0fa04dd2a871960a9d790e6b2e0d7dd    703
+806081585674067968                                                  400
+5c86954695de3ab9a83b2b6ba5c07d60f20439bcc2dd5af677c1b519e391a47b    255
+859386405587496960                                                  232
+782083530033463296                                                  189
+254403684f5a792b33147899f0f7403157de2fce112596e7657aaf71663084fd    183
+3128881295                                                          164
+30356db4488870a022062d1111c504088b776eb3519f06890572d98d5919d06a    136
+e3564a01bca8a00ef2f377c0582cd2f7026805b2df6d741306c70617cc49a40b    124
+847132974814543872                                                  118
+888807842110689282                                                   91
+06e7eaa677d7d08f61dc4640a3934a16630eb5188376658cdd47cb5a4eede1ef     79
+56e4c0dc611c1d8360fc2060d1859a5d5602dae1e4206cf40d1ccca95c4a26e5     74
+702012775992668161                                                   69
+Name: userid, dtype: int64
+
+
+Total Num Rply: 909674 -- 11.38% of total Tweets 
+ Num of Rply of others: 905277 -- 99.52% of Replies
+ Num selfRply: 4397 -- 0.48% of Replies
+ -- Num of unique users who selfReply: 127
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 3209 -- 0.35% of Rply of others
+
+ -- Total Num of unique pairs: 575 -- 17.92% of Rply of others in country collection
+
+Total Num of Replies of individual outside country collection: 902068 -- 99.65% of Rply of others
+
+ -- Total Num of unique pairs: 716819 -- 79.46% of Rply of others outside country collection
+
+
+-------------Statistics for nigeria_ghana as of 30June2020--------------
+Unique UserIDs: 60 
+ Original Num of Tweets: 39964
+ Dedup Num of Tweeets: 39936 -- 99.93%
+
+
+Self-Retweets Top15 by Count of Retweet
+1149814579293241344                             1052
+1144591876231749632                              337
+MrAqJYr2xk9TuxpWT7HvbRTiH02zJ4i4RKeWaGP+31A=     307
+5FVVz+n2OId1GWqLGknVenFXodQrdBb8toPcBwDiKik=     121
+jfHc+PR1RAcWZbVeokGvHkppdJhVd1URHnz981PHHVc=      96
+JOzol5JRP9Fe9AKlM5IEYZqpmS0a7OBeoaZtTLOUJ4=       86
+BCATVlfucjgvrw5ppw+DjgikNFBRP26W0aVdt+yOQI=       66
+1151177350870179841                               45
+1DntkZtHsnN9uWOilCnfeYFQopteUDy2D7JC1Bo+AZA=      31
+iYAwp7NTHmzadsqynYg0pgSC+Da0qyb40BuKC6Mhp4=       31
+BQSd6HG5pCEX3Vbw28UJIbW6cDXtu4bgejnAfZmnlKc=      25
+jABJdRs3DsnvqL1EboMltuFxbycEVwNGySXzeIKcv4=       20
+GmEcAIM5huaLATaRCzPkak8cb1eDGQgFUuPMgZEL5E=       19
+gP9PB65mFowuIclEB+SCEf8S1x85eFO4vjECMOQ4yNI=      14
+ZojOhCuDAa9y5X1vGFGfkvBEstJI7eeuVbZXTV0e5jw=      13
+Name: userid, dtype: int64
+
+
+Total Num RT: 5784 -- 14.48% of total Tweets 
+ Num of RT of others: 3455 -- 59.73% of Retweets
+ Num selfRT: 2329 -- 40.27% of Retweets
+ -- Num of unique users who selfRT: 32
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 3444 -- 99.68% of RT of others
+
+ -- Total Num of unique pairs: 152 -- 4.41% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 11 -- 0.32% of RT of others
+
+ -- Total Num of unique pairs: 9 -- 81.82% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 8697 -- 21.78% of total Tweets 
+ Num of Rply of others: 8697 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 8697 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 8360 -- 96.13% of Rply of others outside country collection
+
+
+-------------Statistics for russia as of 30June2020--------------
+Unique UserIDs: 4856 
+ Original Num of Tweets: 13124189
+ Dedup Num of Tweeets: 13117427 -- 99.95%
+
+
+Self-Retweets Top15 by Count of Retweet
+845488340686139392                              26063
+2980186012                                      13758
+cpGoWRKuWjs4rgU4q2SIgYVvWUMdFkglid14Dd9CQWE=     6994
+kq5UeLa2co5fBrnJsAn0g0X1xHfEvrb8fYltoxgGyf0=     3558
+4508630900                                       1026
+3312143142                                        778
+PBYfc02RVo1NJDn04zM+CulfSOPeglwzm+QNDwRznMc=      765
+4840551713                                        693
+4859142199                                        352
+4224729994                                        266
+905141386781085696                                257
+2882013788                                        248
+1687183549                                        201
+2882331822                                        180
+905514350684844036                                169
+Name: userid, dtype: int64
+
+
+Total Num RT: 4077501 -- 31.08% of total Tweets 
+ Num of RT of others: 4020852 -- 98.61% of Retweets
+ Num selfRT: 56649 -- 1.39% of Retweets
+ -- Num of unique users who selfRT: 238
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 962058 -- 23.93% of RT of others
+
+ -- Total Num of unique pairs: 172993 -- 17.98% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 3058794 -- 76.07% of RT of others
+
+ -- Total Num of unique pairs: 801128 -- 26.19% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+2484642526                                                          1630
+2351739462                                                           822
+3899481526                                                           716
+e3089b4a860be0fed877ad160b67f74758f7a1a387eaed0b407bec359afc227d     400
+4224729994                                                           342
+2882331822                                                           306
+84e99aeca16d62dc12b9cad374da9dc4b720bcd095164f099d87004d91480402     209
+4437233895                                                           175
+1240007161                                                           165
+a95a911dd6ae864c48ed062cdbe75e5c28dbe0cf57c6db3fa9dd53b654ee9845     163
+bd942c4d8cc194d7186e8547420b4f6fb6a1192758e91f2b0ec53632f874b3ae     143
+cf6b4210b49bbaaf318fab107e2cd6eae47a5cb4219b31b1c0826fbe37eb22d5     141
+8f39bc23dbcf87ee4ef0fb211dddcb093c5b93fa381a93205b6046ea197226fe     139
+778fcd5b09b0cf87b5d703cf31585d601da204d4bb6150ff833d0b5bf38bda9d     136
+462272724                                                            135
+Name: userid, dtype: int64
+
+
+Total Num Rply: 1079294 -- 8.23% of total Tweets 
+ Num of Rply of others: 1071545 -- 99.28% of Replies
+ Num selfRply: 7749 -- 0.72% of Replies
+ -- Num of unique users who selfReply: 195
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 183352 -- 17.11% of Rply of others
+
+ -- Total Num of unique pairs: 20321 -- 11.08% of Rply of others in country collection
+
+Total Num of Replies of individual outside country collection: 888193 -- 82.89% of Rply of others
+
+ -- Total Num of unique pairs: 641790 -- 72.26% of Rply of others outside country collection
+
+
+-------------Statistics for sa_eg_ae as of 30June2020--------------
+Unique UserIDs: 4479 
+ Original Num of Tweets: 36523980
+ Dedup Num of Tweeets: 35442345 -- 97.04%
+
+
+Self-Retweets Top15 by Count of Retweet
+2904198326                                      8563
+2WjirTJDoe1L4jc7HbasgoccdTDsQhrm773XFmZ6h0M=    3115
+448366650                                       2046
+2493978613                                      1717
+bRzlipUhYbuErpsQ5bgHxOTn16yNYpwdEAnES8ht1z0=    1546
+247341834                                       1431
+455687665                                       1349
+1029470705509916674                             1281
+1035207275579883521                             1199
+1136410291                                      1100
+499971841                                       1075
+2526117265                                       993
+UsJlP4wYOJpOkubA2GwLD8CBGHQVRRDtkJ+zjT8HB+g=     962
+15588234                                         901
+1624329463                                       822
+Name: userid, dtype: int64
+
+
+Total Num RT: 644116 -- 1.82% of total Tweets 
+ Num of RT of others: 588620 -- 91.38% of Retweets
+ Num selfRT: 55496 -- 8.62% of Retweets
+ -- Num of unique users who selfRT: 1125
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 588620 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 59596 -- 10.12% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 869224 -- 2.45% of total Tweets 
+ Num of Rply of others: 869224 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 869224 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 834033 -- 95.95% of Rply of others outside country collection
+
+
+-------------Statistics for saudi_arabia as of 30June2020--------------
+Unique UserIDs: 5917 
+ Original Num of Tweets: 32054597
+ Dedup Num of Tweeets: 31822735 -- 99.28%
+
+
+Self-Retweets Top15 by Count of Retweet
+2479265499            46470
+829717393115066369    20876
+1480983181            20221
+1121701880            18843
+2700336042            11615
+2343378448            11508
+3067928469            11211
+3091540868            11039
+736422112785793024    10245
+4547573535             9000
+608481947              7066
+3242329158             6803
+200153918              6385
+893683315              6357
+979816655164461057     5996
+Name: userid, dtype: int64
+
+
+Total Num RT: 523647 -- 1.65% of total Tweets 
+ Num of RT of others: 163143 -- 31.16% of Retweets
+ Num selfRT: 360504 -- 68.84% of Retweets
+ -- Num of unique users who selfRT: 1400
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 163143 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 28646 -- 17.56% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 5343095 -- 16.79% of total Tweets 
+ Num of Rply of others: 5343095 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 5343095 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 5136138 -- 96.13% of Rply of others outside country collection
+
+
+-------------Statistics for serbia as of 30June2020--------------
+Unique UserIDs: 5798 
+ Original Num of Tweets: 10301022
+ Dedup Num of Tweeets: 10298943 -- 99.98%
+
+
+Self-Retweets Top15 by Count of Retweet
+7BdhIh2GsQYgYTjpkVjmxfqH5NjLs6R8D8CMsuDTVQo=    4266
+STLP35fbi7YkPje4GjvN0nx2mteSSgP+lFk+chM5edc=     541
+AT4Bv8ansZ6HQlRzOLxEtkdIbsQWR+wcg8fJse67Pc=      417
+LcYM6XbwEjKJpW6kKKc5tClDk5SyFCjXhoFaIH2xLJQ=     327
+mXUmvSmQgMnXKAv0Wu3vA6RqPnbp+gwXz9uyuKBOusI=     320
+yQ+79AtaxQRYDMmMCK+Flt3iMrC3rOXxX9bgUxVDUE=      295
+V3iWBea1iN5ta8pSgW2ozKvhQCiMzgFtVxl+jG7F6Y=      192
+KPC1tHpCWSqorMaj25XfQgWyk+Re6xTruB8GPCUkoto=     184
+802890648                                        181
+XrzEpQgZC7cls7Eyg8H9G6R+S12TKjiHGS8qR3gLDs=      160
+KGKTefioOfDh9GsTdVbf3CofFtU7BNMI00tQLKIVIS8=     151
+cCEBln8v3lNTyPpbKVGCzvXuQ++boUcUbfAcpAp2K7s=     133
+xd66t4I8lajzSYStxKjpXOrMpruqDj4k7VzHVGoXpwY=     129
+Y0HAl7Y7MMK+Yxem3QvJNoOm03QudtBgyrLKuXTWpbs=     110
+ntFwCXm1XDKp54hMO0SAIx88optfoNSAY+3s55oFAs=       89
+Name: userid, dtype: int64
+
+
+Total Num RT: 2281662 -- 22.15% of total Tweets 
+ Num of RT of others: 2270677 -- 99.52% of Retweets
+ Num selfRT: 10985 -- 0.48% of Retweets
+ -- Num of unique users who selfRT: 645
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 2270662 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 243611 -- 10.73% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 15 -- 0.0% of RT of others
+
+ -- Total Num of unique pairs: 9 -- 60.0% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 494569 -- 4.8% of total Tweets 
+ Num of Rply of others: 494569 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 494569 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 489142 -- 98.9% of Rply of others outside country collection
+
+
+-------------Statistics for spain as of 30June2020--------------
+Unique UserIDs: 216 
+ Original Num of Tweets: 56712
+ Dedup Num of Tweeets: 56666 -- 99.92%
+
+
+Self-Retweets Top15 by Count of Retweet
+WqMmobbZL3kIxiP5zifGc6ujXEu0hAIr3tbgf4bG4=      63
+Vz96VT53BuoDHxfD+S9Vd3rnWqADYuZ9t+NJAEZzG4k=    25
+ATnknWuVO+dVNzL+RlyunSAGedxC74GOtQPwUfyqF3E=    20
+Q4pke+T2qQIN2OKRi7Izyczly++vbRymlmxFCD9MY=      14
+peULV1LRS64BeR1MS3xEiuLSU03wZq2G4rCbXlFtd0=     11
+8hKvK0PlR6xQUDojJYR1f12z7Lm5XHE3COwUxENVvms=     7
+5EmGpBY0A4CSwgK6whyvdct+NyeXAu9dLe7eiOfVJ2I=     6
+EE4Cp9rwNcG5EXl3R3jwm0tIon1vdV8ohdjfR7kkP8o=     6
+3LTvVJzzIIGR85mZKFm+XL7H2OiCL1dFP0Q0MjHtxCU=     6
+HaiQ7XYyIpbp2wz7PhJjRWe6Qrium5mTBNMQAVkYdzI=     6
+JblI7oXZIf2M5QLQqGhjBZr5Lqvjrwox3GU7tCEJ+KY=     5
++rc4e+CGVvK97+2JtM8YBr8H5lfulJheTZflxvfDP0=      5
+lTX9ZHiueWzPwJLoPwhCc8g6EV87w0IdeW38vD11PRI=     4
+Jyonno5Z8iVS82+pWqEDG7MClq+oEgQVVI8wiyC3k=       4
+hC8TctwGB82XNF1xXuKm3RoFMNudfwATIiO1lCFx9Wc=     4
+Name: userid, dtype: int64
+
+
+Total Num RT: 8821 -- 15.57% of total Tweets 
+ Num of RT of others: 8604 -- 97.54% of Retweets
+ Num selfRT: 217 -- 2.46% of Retweets
+ -- Num of unique users who selfRT: 36
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 8604 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 1473 -- 17.12% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 8985 -- 15.86% of total Tweets 
+ Num of Rply of others: 8985 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 8985 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 8272 -- 92.06% of Rply of others outside country collection
+
+
+-------------Statistics for turkey as of 30June2020--------------
+Unique UserIDs: 6270 
+ Original Num of Tweets: 36948536
+ Dedup Num of Tweeets: 36838818 -- 99.7%
+
+
+Self-Retweets Top15 by Count of Retweet
+2383396185                                      25766
+4643569343                                      12720
+1257714452                                      11264
+4503780347                                       5840
+J6pXW1hfSZCmnA7s5364JhMcLi1POldPlCq3VdS1gU=      5461
+2298258589                                       5336
+877965285516615682                               4874
+2240658110                                       4614
+731881104706306052                               4413
+789162789700902912                               4128
+771000431459835904                               3905
+yWaB+ynt+zK8glcIS1QQVOm9SPyujF2uTleiky6EeS4=     3681
+2902989023                                       3213
+ayyEA6bBG2IF36KaA07jhQYw0OifeSH4e+lJjdMyw=       2943
+du9lnDIQ9b1V5VOYxTRBhvN+eQeGs0+TOM993oHMi8=      2907
+Name: userid, dtype: int64
+
+
+Total Num RT: 3037294 -- 8.24% of total Tweets 
+ Num of RT of others: 2772105 -- 91.27% of Retweets
+ Num selfRT: 265189 -- 8.73% of Retweets
+ -- Num of unique users who selfRT: 2176
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 2772105 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 101987 -- 3.68% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 3074138 -- 8.34% of total Tweets 
+ Num of Rply of others: 3074138 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 3074138 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 2617041 -- 85.13% of Rply of others outside country collection
+
+
+-------------Statistics for uae as of 30June2020--------------
+Unique UserIDs: 3658 
+ Original Num of Tweets: 1325530
+ Dedup Num of Tweeets: 1324518 -- 99.92%
+
+
+Self-Retweets Top15 by Count of Retweet
+jA8DLQK8bdGcCmyLcsNWCJu3Az+f8xTEADlKI3KBcA=     41
+gb3wmnjm6zuN0ueBxxXIjrJCnKQxDrymYtNF6nP2uVg=    40
+hmvZYY01DWuDPLvs9RVakF2ztIDyrOws5IhdyW8XBA=     37
+12ZgvzTgWtQdiDNOFz79dpTHHf4ucSvdrQ0qpolJmY=     34
+ETLdbGOppoZUWU4YupOTRAgBPJgYs0dcBcWFCKqPp+A=    31
+akK9g+ziA8c4RssVN26mkenzBjX2Umpu4fDxNeir38=     31
+VLmieMzGx63+mGN5ES2lQPiz8NwvOQGkWb3F35CtDc=     27
+S2AHJs+cc6TlEB8d6d6fNGmyvWGsEuMZ3MQNYLeHfM=     19
+LcngU4aA6nCKE2FjwMLqxAPoMLlzszs9E0S3cD1oT+U=    19
+NpNK7HJQ4l5bbocyIDxeHF3Jk2vSJySUEeLkGZUFyU=     17
+ZZiFzHhCDom10ZdnjnqQHhZxD0meQClVvMHQHPwQdas=    12
+Z30iQftn0fzexBGJhz0W0++ASnXfWz7g5gyuw6cT8Yk=    12
+B7aXhoWB4LrfM+4zG9uMNL+XD1BVS16jB7D3Oy3CsoU=    12
+KgdKA2q3NSSB96xLavJWK+xu3hxduqsZPDiSlQAdPq0=    11
+yZRUIQQTY8Tw4hWypXaNF8++w+gWYdvDldk6DN3uaU=     10
+Name: userid, dtype: int64
+
+
+Total Num RT: 51699 -- 3.9% of total Tweets 
+ Num of RT of others: 50891 -- 98.44% of Retweets
+ Num selfRT: 808 -- 1.56% of Retweets
+ -- Num of unique users who selfRT: 297
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 50891 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 16554 -- 32.53% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 99125 -- 7.48% of total Tweets 
+ Num of Rply of others: 99125 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 99125 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 97999 -- 98.86% of Rply of others outside country collection
+
+
+-------------Statistics for uae_egypt as of 30June2020--------------
+Unique UserIDs: 240 
+ Original Num of Tweets: 214898
+ Dedup Num of Tweeets: 214821 -- 99.96%
+
+
+Self-Retweets Top15 by Count of Retweet
+468064211                                       19
+ODFo61ivRQsKr70pEQmPQaSCARkBuEmmSXdylgb5BU=     15
+eq0Po5JMoX7cYf5+nCbNYdPCrnDTYtNd20Z50Hmo0I=     11
+CctS3qhdcO6ByMZ6HJsgJ+TJ7QPUIPc5a7UpMGcQLfs=    10
+Fz55SPZku0DdGUoR+XI1UlR8ZAYFeVlVMom6BYYfF5I=     9
+xKUYEssjFktvGB4KEW2mgpzb22fIBmzvJ0YjZuuC8mI=     9
+3Di68+Cy2d1dw1EiZgmLvMxVGuqIHzBBruG4nUtru0Y=     9
+njqPs+0SqYNjaIa8oE28s+OtuUrRgMDs8swXPJ8o=        6
+TIzG6DIa4mCo5V+EeC40ZJI4tlMnyfm6WU9k9K6RQg=      6
+yyuqyCa5UYXxNJNjrtA4gzautYNnqwWKdhFE9uV7N9c=     5
+iw7LrJtXHPN3jfggzrSuGOQAxVcI1PN033g97C6bEgA=     5
+VtO2wA9txpNK+4LuZxhYGOqK4ykp53svQoMPELicDqM=     5
+AHDe7xr0QETooSn6zLLLHEuQmep9CSE1IDWy7q4tkck=     5
+CyPfXb5sc9ELTUraoOr6vgc8WJRppErhX29+f9ZCo=       5
+P70jGtjtqWlQYm3LuTknLPL8kpeFIt2OlbVYi3QIk=       4
+Name: userid, dtype: int64
+
+
+Total Num RT: 16432 -- 7.65% of total Tweets 
+ Num of RT of others: 16204 -- 98.61% of Retweets
+ Num selfRT: 228 -- 1.39% of Retweets
+ -- Num of unique users who selfRT: 68
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 16204 -- 100.0% of RT of others
+
+ -- Total Num of unique pairs: 2064 -- 12.74% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 0 -- 0.0% of RT of others
+
+-- Total Num of unique pairs: 0. Length of len_dfRT_nonnet_edges is 0.
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 11584 -- 5.39% of total Tweets 
+ Num of Rply of others: 11584 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 11584 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 11123 -- 96.02% of Rply of others outside country collection
+
+
+-------------Statistics for venezuela as of 30June2020--------------
+Unique UserIDs: 1020 
+ Original Num of Tweets: 28560045
+ Dedup Num of Tweeets: 9512236 -- 33.31%
+
+
+Self-Retweets Top15 by Count of Retweet
+239471570                                       3139
+702694293878796288                              1784
+1945076479                                       482
+ErR2Zq1l8wg5u1HWrbZ9nPJyg82tVXvU2Cy3dCFgmSE=     414
+EGv54bm2WsipxtX+4574zqefrh7+t35NQeKAH72tGp4=     389
+138503898                                        373
+qJ94zBoz6ij+qa8dmlmOKV9QbbE2cWGfiQVZky6qMc=      315
+269099419                                        292
+289344183                                        291
+303505390                                        219
+2197008278                                       188
+27aKo206KWAMWXDQHxCNRnU5AilCxDbGNigelllVW0=      172
+SWwkLoXQ29XF1h4h0i8sdoeSDOKbtZtl4j8JGP8Oi3g=     168
+r7DvJ0ny8g8TTHpfc70GnGwvmjHmBcRasA9ujIwtuA=      159
+p3tq1wBXYHT7gPQjUXYrd7Ym9lAQkJQ0uopmw2G9r1Y=     158
+Name: userid, dtype: int64
+
+
+Total Num RT: 2076055 -- 21.83% of total Tweets 
+ Num of RT of others: 2063498 -- 99.4% of Retweets
+ Num selfRT: 12557 -- 0.6% of Retweets
+ -- Num of unique users who selfRT: 316
+
+
+Total Num of RT of individual in country collection |not including selfRT| : 133910 -- 6.49% of RT of others
+
+ -- Total Num of unique pairs: 16761 -- 12.52% of RT of others in country collection
+
+Total Num of RT of individual outside country collection: 1929588 -- 93.51% of RT of others
+
+ -- Total Num of unique pairs: 302509 -- 15.68% of RT of others outside country collection
+
+
+Self-Replies Top15 by Count of Rply
+Series([], Name: userid, dtype: int64)
+
+
+Total Num Rply: 261319 -- 2.75% of total Tweets 
+ Num of Rply of others: 261319 -- 100.0% of Replies
+ Num selfRply: 0 -- 0.0% of Replies
+ -- Num of unique users who selfReply: 0
+
+
+Total Num of Replies of individual in country collection |not including selfRply| : 0 -- 0.0% of Rply of others
+
+ -- Total Num of unique pairs: 0. Length of len_dfRplynet_edges is 0.
+
+Total Num of Replies of individual outside country collection: 261319 -- 100.0% of Rply of others
+
+ -- Total Num of unique pairs: 244745 -- 93.66% of Rply of others outside country collection

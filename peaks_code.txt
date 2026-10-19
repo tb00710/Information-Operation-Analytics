@@ -1,0 +1,67 @@
+Dask allows you to parallelize popular Python libraries like NumPy, Pandas, and scikit-learn across multiple CPU cores. It ‘chunks’ a workload up into smaller pieces, passes them off to different CPU cores to do the work in parallel, reassembles the results and returns it in the expected format. Here’s how I read this dataset into pandas using Dask:
+
+from dask import dataframe as dd
+ddf = dd.read_csv(r"FILEPATH", dtype={'SimillarHTTP': 'object'},blocksize='64MB')
+df = ddf.compute()
+df.columns = df.columns.str.replace(' ', '') #clean up column names
+
+#Get rid of any NaN or Infinity values:
+pd.options.mode.use_inf_as_na = True
+df.dropna(inplace=True)
+
+#And encode the labels:
+labels = pd.get_dummies(df['Label'])
+
+https://www.kdnuggets.com/2021/12/avoid-mistakes-time-series-forecasting.html
+https://www.kdnuggets.com/2021/12/pycaret-new-time-series-module.html
+
+
+Then finds peaks:
+
+from scipy.signal import find_peakspeaks = find_peaks(df_sub["adjusted_close"])
+
+Then find troughs:
+
+troughs = find_peaks(-df_sub["adjusted_close"])
+
+ 
+
+Then we can visualize the
+
+ax = df_sub.plot(x="date", y="adjusted_close", figsize=(14, 7))df_sub.iloc[peaks[0]].plot.scatter(x="date", y="adjusted_close", ax=ax, color="green")df_sub.iloc[troughs[0]].plot.scatter(x="date", y="adjusted_close", ax=ax, color="red")
+
+Let’s compare randomly generated numbers drawn from the Gaussian distribution with the Apple stock time series.
+
+With the command below I generate 1000 random numbers from Gaussian distribution with zero mean and the standard deviation equal to 1 (aka. normal distribution):
+
+np.random.seed(42)normal_dist = pd.DataFrame(np.random.normal(size=1000), columns=["value"])
+
+ Now, let’s visualize generated numbers and compare them with Apple stock time series:
+
+fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(14, 7))normal_dist["value"].plot(
+    ax=axes[0],
+    title="Random samples drawn from a normal (Gaussian) distribution",
+)df.plot(x="date", y="adjusted_close", ax=axes[1], title="Apple stock time series")
+
+ Let’s look at the example below.
+
+In the first step, we generate a list of 1000 numbers with randomly selected -1 and 1.
+
+np.random.seed(42)random_walk = pd.DataFrame()
+random_walk.loc[:, "random_number"] = np.random.choice([-1, 1], size=1000, replace=True)
+
+ 
+
+Then we cumulative summarize generated random values to add dependence on the previous state:
+
+random_walk.loc[:, "random_walk"] = random_walk["random_number"].cumsum()
+
+ 
+
+The initial adjusted close of the Apple stock was 34.55. Let’s add this number to the random_walk so that we work with the same scale:
+
+random_walk.loc[:, "random_walk_apple"] = random_walk["random_walk"] + 34.55
+
+ 
+
+The end result is a pandas Dataframe with a generated random walk:
